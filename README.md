@@ -4,14 +4,14 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/interior-design-landing-page/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
 
 <br>
 
 ## 📌 Tech Stack
 
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/heistejiri)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/heistejiri)&nbsp;
 <br>
 <br>
 
